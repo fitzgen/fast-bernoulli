@@ -1,5 +1,7 @@
 # `fast-bernoulli`: Efficient sampling with uniform probability
 
+[![Rust](https://github.com/fitzgen/fast-bernoulli/actions/workflows/rust.yml/badge.svg)](https://github.com/fitzgen/fast-bernoulli/actions/workflows/rust.yml)
+
 When gathering statistics about a program's behavior, we may be observing events
 that occur very frequently (e.g., function calls or memory allocations) and we
 may be gathering information that is somewhat expensive to produce (e.g., call
