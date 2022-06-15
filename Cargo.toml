@@ -1,0 +1,16 @@
+[package]
+authors = ["Nick Fitzgerald <fitzgen@gmail.com>", "Jim Blandy <jimb@red-bean.com>"]
+categories = ["algorithms", "development-tools", "development-tools.profiling", "mathematics"]
+description = "Efficient sampling with uniform probability."
+documentation = "https://docs.rs/fast-bernoulli"
+license = "MIT OR Apache-2.0"
+name = "fast-bernoulli"
+readme = "./README.md"
+repository = "https://github.com/fitzgen/fast-bernoulli"
+version = "1.0.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
