@@ -47,7 +47,7 @@ need we ever generate a random number at all.)
 
 ## Example
 
-```
+```rust
 use fast_bernoulli::FastBernoulli;
 use rand::Rng;
 
