@@ -1,9 +1,15 @@
-# `fast-bernoulli`: Efficient sampling with uniform probability
-
-[![Rust](https://github.com/fitzgen/fast-bernoulli/actions/workflows/rust.yml/badge.svg)](https://github.com/fitzgen/fast-bernoulli/actions/workflows/rust.yml)
-[![](https://img.shields.io/crates/v/fast-bernoulli.svg)](https://crates.io/crates/fast-bernoulli)
-[![](https://img.shields.io/crates/d/fast-bernoulli.svg)](https://crates.io/crates/fast-bernoulli)
-[![](https://docs.rs/fast-bernoulli/badge.svg)](https://docs.rs/fast-bernoulli/)
+<div align="center">
+  <h1><code>fast-bernoulli</code></h1>
+  <p>
+    <strong>Efficient sampling with uniform probability</strong>
+  </p>
+  <p>
+    <a href="https://github.com/fitzgen/fast-bernoulli/actions/workflows/rust.yml"><img src="https://github.com/fitzgen/fast-bernoulli/actions/workflows/rust.yml/badge.svg"/></a>
+    <a href="https://crates.io/crates/fast-bernoulli"><img src="https://img.shields.io/crates/v/fast-bernoulli.svg"/></a>
+    <a href="https://crates.io/crates/fast-bernoulli"><img src="https://img.shields.io/crates/d/fast-bernoulli.svg"/></a>
+    <a href="https://docs.rs/fast-bernoulli/"><img src="https://docs.rs/fast-bernoulli/badge.svg"/></a>
+  </p>
+</div>
 
 When gathering statistics about a program's behavior, we may be observing events
 that occur very frequently (e.g., function calls or memory allocations) and we
