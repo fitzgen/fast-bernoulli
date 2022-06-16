@@ -1,6 +1,9 @@
 # `fast-bernoulli`: Efficient sampling with uniform probability
 
 [![Rust](https://github.com/fitzgen/fast-bernoulli/actions/workflows/rust.yml/badge.svg)](https://github.com/fitzgen/fast-bernoulli/actions/workflows/rust.yml)
+[![](https://img.shields.io/crates/v/fast-bernoulli.svg)](https://crates.io/crates/fast-bernoulli)
+[![](https://img.shields.io/crates/d/fast-bernoulli.svg)](https://crates.io/crates/fast-bernoulli)
+[![](https://docs.rs/fast-bernoulli/badge.svg)](https://docs.rs/fast-bernoulli/)
 
 When gathering statistics about a program's behavior, we may be observing events
 that occur very frequently (e.g., function calls or memory allocations) and we
