@@ -1,6 +1,6 @@
 [package]
 authors = ["Nick Fitzgerald <fitzgen@gmail.com>", "Jim Blandy <jimb@red-bean.com>"]
-categories = ["algorithms", "development-tools", "development-tools.profiling", "mathematics"]
+categories = ["algorithms", "development-tools", "development-tools::profiling", "mathematics"]
 description = "Efficient sampling with uniform probability."
 documentation = "https://docs.rs/fast-bernoulli"
 license = "MIT OR Apache-2.0"
